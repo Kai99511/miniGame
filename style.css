@@ -1,0 +1,30 @@
+canvas {
+    border: 1px solid #000;
+    display: block;
+    margin: 20px auto;
+}
+
+#title-screen {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#game-screen {
+    display: none;
+}
+
+#clickBtn {
+    display: none;
+    margin: 0 auto;
+    position: relative;
+    top: 170px;
+    
+}
+
+#score-display{
+    display: none;
+    position: relative;
+    font-size: 54px;
+    text-align: center;
+    
+}
